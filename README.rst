@@ -1,4 +1,4 @@
-PVMismatch
+PPVMismatch
 ==========
 
 An explicit IV & PV curve trace calculator for PV system circuits
